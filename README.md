@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+Check out [my portfolio website](https://cwroger1.github.io)
+
+
 <!--
 **cwroger1/cwroger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
