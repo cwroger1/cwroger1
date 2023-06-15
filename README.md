@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Check out [my portfolio website](https://cwroger1.github.io)
+Check out <a href="https://cwroger1.github.io" target="_blank">my portfolio website</a>!
 
 
 <!--
